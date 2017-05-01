@@ -144,7 +144,7 @@
                 android:gravity="center" />
 
             <Button
-                android:text="$5.99"
+                android:text="$1000.99"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/button7"
@@ -240,7 +240,7 @@
             android:layout_height="wrap_content">
 
             <Button
-                android:text="S5"
+                android:text="!BUG"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/button16"
